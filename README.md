@@ -27,3 +27,23 @@ Como saída, aparecerá algo como:
 
 yarn init v1.15.2
 Assim como nós podemos ver, a instalação do Yarn foi bem sucedida e nós estamos prontos para trabalhar.
+
+#`instruções de uso:`
+#Modo de operação react
+# yarn init -y
+ cria o packge.json
+** instale as dependeincias 
+#yarn add express
+
+#yarn add -D  @types/express typescrip ts-node-dev
+**ativar typescrip com o comamado 
+#tsc --init
+**limpe o start do tsc --init
+**scrict false
+"()=>{}
+#*
+script:{
+ "dev":"ts-node-dev src/app.ts"	
+} 
+**"dotenv'
+
