@@ -30,9 +30,12 @@ Assim como nós podemos ver, a instalação do Yarn foi bem sucedida e nós esta
 
 #`instruções de uso:`
 #Modo de operação react
+
 # yarn init -y
  cria o packge.json
+
 ** instale as dependeincias 
+
 #yarn add express
 
 #yarn add -D  @types/express typescrip ts-node-dev
