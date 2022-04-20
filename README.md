@@ -36,14 +36,23 @@ Assim como nós podemos ver, a instalação do Yarn foi bem sucedida e nós esta
 #yarn add express
 
 #yarn add -D  @types/express typescrip ts-node-dev
+
 **ativar typescrip com o comamado 
+
 #tsc --init
+
 **limpe o start do tsc --init
+
 **scrict false
+
 "()=>{}
+
 #*
+
 script:{
- "dev":"ts-node-dev src/app.ts"	
+
+"dev":"ts-node-dev src/app.ts"	
 } 
+
 **"dotenv'
 
